@@ -1,0 +1,14 @@
+D:\Source\Repos\visualCDR\CDRworks\bin\Debug\CDRworks.exe.config
+D:\Source\Repos\visualCDR\CDRworks\bin\Debug\CDRworks.exe
+D:\Source\Repos\visualCDR\CDRworks\bin\Debug\CDRworks.pdb
+D:\Source\Repos\visualCDR\CDRworks\obj\Debug\CDRworks.csprojAssemblyReference.cache
+D:\Source\Repos\visualCDR\CDRworks\obj\Debug\CDRworks.Form1.resources
+D:\Source\Repos\visualCDR\CDRworks\obj\Debug\CDRworks.Properties.Resources.resources
+D:\Source\Repos\visualCDR\CDRworks\obj\Debug\CDRworks.csproj.GenerateResource.cache
+D:\Source\Repos\visualCDR\CDRworks\obj\Debug\CDRworks.csproj.CoreCompileInputs.cache
+D:\Source\Repos\visualCDR\CDRworks\obj\Debug\CDRworks.exe
+D:\Source\Repos\visualCDR\CDRworks\obj\Debug\CDRworks.pdb
+D:\Source\Repos\visualCDR\CDRworks\bin\Debug\CDRworks.exe.manifest
+D:\Source\Repos\visualCDR\CDRworks\bin\Debug\CDRworks.application
+D:\Source\Repos\visualCDR\CDRworks\obj\Debug\CDRworks.exe.manifest
+D:\Source\Repos\visualCDR\CDRworks\obj\Debug\CDRworks.application
